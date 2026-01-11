@@ -1,0 +1,22 @@
+{
+    "chennai":
+    {
+        "temp":32,
+        "condition":"sunny"
+    },
+    "bangalore":
+    {
+        "temp":25,
+        "condition":"cloudy"
+    },
+    "delhi":
+    {
+        "temp":30,
+        "condition":"hot"
+    },
+    "mumbai":
+    {
+        "temp":29,
+        "condition":"Humid"
+    }
+}
